@@ -61,7 +61,6 @@ def send_message():
 		"time": time.time() 
 		})
 
-	print(db)
 	return {"ok": True}
 
 
